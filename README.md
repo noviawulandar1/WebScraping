@@ -1,2 +1,2 @@
 # WebScraping
-I have been working on web scraping and performing basic data cleaning tasks. I performed these tasks on the https://www.bukitvista.com/ website, specifically focusing on the Yogyakarta option. I converted the scraped data into a dataframe and carried out simple data cleaning procedures. 
+I have been working on web scraping and performing basic data-cleaning tasks. I performed these tasks on the https://www.bukitvista.com/ website, specifically focusing on the Yogyakarta option. I converted the scraped data into a data frame and carried out simple data-cleaning procedures. Additionally, I attempted to establish a connection to a MySQL database. I plan to continue developing this project periodically and will upload the updates here
